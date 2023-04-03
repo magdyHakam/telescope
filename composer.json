@@ -1,5 +1,5 @@
 {
-    "name": "laravel/telescope",
+    "name": "magdy-hakam/telescope",
     "description": "An elegant debug assistant for the Laravel framework.",
     "keywords": ["laravel", "monitoring", "debugging"],
     "license": "MIT",
@@ -11,12 +11,16 @@
         {
             "name": "Mohamed Said",
             "email": "mohamed@laravel.com"
+        },
+        {
+            "name": "Magdy hakam",
+            "email": "magdy.hakam@gmail.com"
         }
     ],
     "require": {
         "php": "^8.0",
         "ext-json": "*",
-        "laravel/framework": "^8.37|^9.0|^10.0",
+        "laravel/framework": "^7.0|^8.37|^9.0|^10.0",
         "symfony/var-dumper": "^5.0|^6.0"
     },
     "require-dev": {
